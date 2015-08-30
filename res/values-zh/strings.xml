@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">信管</string>
+    <string name="hello_world">你好世界</string>
+    <string name="action_settings">设置</string>
+    <string name="Register">注册</string>
+    <string name="Login">登录</string>
+    <string name="Cancle">取消</string>
+    <string name="Name">用户名</string>
+    <string name="Password">密码</string>
+    <string name="PasswordAgain">确认密码</string>
+    <string name="infopage">信息页</string>
+    <string name="chinese">语文\t</string>
+    <string name="math">数学\t</string>
+    <string name="english">英语\t</string>
+    <string name="modify">修改</string>
+    <string name="drop">删除</string>
+    <string name="confirm">确定</string>
+    <string name="manage">管理</string>
+    <string name="login_failure">登陆失败</string>
+    <string name="greeting">你好</string>
+    <string name="browse">查看</string>
+    <string name="warning">警告</string>
+    <string name="warning_messege">该用户的信息修改不可逆!\n是否确定要修改？</string>
+    <string name="modify_success">修改成功</string>
+    <string name="input_limits_name_hint">限10字内汉字字母</string>
+    <string name="man">男</string>
+    <string name="woman">女</string>
+    <string name="age">年龄</string>
+    <string name="hobby">爱好</string>
+    <string name="hobby1">hobby1</string>
+    <string name="hobby2">hobby2</string>
+    <string name="hobby3">hobby3</string>
+    <string name="successIOnRegister">注册成功</string>
+    <string name="activity_main_greeting_to_admin">尊敬的管理员用户你好！欢迎登陆本系统！当前系统内的用户于下表，您可以辣手摧花了！哈哈哈~~</string>
+    <string name="success_in_droping_user">删除用户成功</string>
+    <string name="welcome">欢迎</string>
+    <string name="alertDialog_greeting_to_admin">您是超级管理员！您有足够大的权利，来管理所有的用户信息！</string>
+    <string name="i_have_known_it">我知道了</string>
+	<string name="register_fail">注册失败</string>
+</resources>
